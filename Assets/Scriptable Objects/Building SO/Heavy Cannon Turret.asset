@@ -15,8 +15,8 @@ MonoBehaviour:
   unitTypeName: Heavy Cannon
   hasTurret: 0
   description: Torgue would approve
-  buildCost: 15000
-  buyCosts: 30000
+  buildCost: 1
+  buyCosts: 1
   attackDamage: 3000
   totalHealth: 10000
   totalArmour: 10000

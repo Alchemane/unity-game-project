@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buildingTypeName: Plasma Generator
   description: Generates energy for cash
-  buildCost: 3000
-  buyCost: 6000
+  buildCost: 1
+  buyCost: 1
   totalHealth: 3000
   totalArmour: 5000

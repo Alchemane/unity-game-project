@@ -15,8 +15,8 @@ MonoBehaviour:
   unitTypeName: Energy Rifle
   hasTurret: 0
   description: 
-  buildCost: 15000
-  buyCosts: 30000
+  buildCost: 1
+  buyCosts: 1
   attackDamage: 5000
   totalHealth: 10000
   totalArmour: 7500

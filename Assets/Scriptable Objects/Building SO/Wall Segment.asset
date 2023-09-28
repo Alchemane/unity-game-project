@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buildingTypeName: Main Wall
   description: 
-  buildCost: 10000
-  buyCost: 20000
+  buildCost: 1
+  buyCost: 1
   totalHealth: 5000
   totalArmour: 5000

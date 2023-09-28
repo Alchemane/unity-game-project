@@ -51,6 +51,7 @@ public class ResourceMenuManager : MonoBehaviour
             //1 second divided by the total cash per second (10f is the cash per second of 1 generator)
             delayTime = 1f / (100f * plasmaGenerators.Count);
         }
+        Debug.Log(plasmaGenerators.Count);
     }
 
     private void UpdatePower()
